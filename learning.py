@@ -6,4 +6,4 @@ def even_odd(start, end):
     else:
         print(f"{num} is odd")
 
-even_odd(100,200)
+even_odd(100,300)
